@@ -34,7 +34,7 @@
 ----
 ## 머신러닝/딥러닝
 <img src = "http://image.yes24.com/momo/TopCate1282/MidCate002/128113609.jpg" width="200" height="300"></img>
-<img src = "http://image.yes24.com/Goods/49853812/800x0 width="200" height="300"></img> 
+<img src = "http://image.yes24.com/Goods/49853812/800x0.jpg" width="200" height="300"></img> 
 - 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기 (Ing)
 - 골빈해커의 3분 딥러닝 텐서플로 코드로 맛보는 CNN, AE, GAN, RNN, DQN (+ Inception) (Ing)
  
