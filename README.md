@@ -29,8 +29,9 @@
 ----
 ## Python을 활용한 데이터 분석
 <img src = "http://image.yes24.com/momo/TopCate1745/MidCate004/174435292.jpg" width="200" height="300"></img> 
+<img src = "http://image.yes24.com/Goods/50330345/800x0" width="200" height="300"></img> 
 - [x] 파이썬으로 데이터 주무르기 독특한 예제를 통해 배우는 데이터 분석 입문 (Completed, 2019.09.02)
-  
+- [ ] 파이썬 데이터 사이언스 핸드북 IPython, Jupyter, NumPy, Pandas, Matplotlib, Scikit-Learn 라이브러리를 활용한 데이터 과학과 머신러닝 (Ing)
 ----
 ## 머신러닝/딥러닝
 <img src = "http://image.yes24.com/momo/TopCate1282/MidCate002/128113609.jpg" width="200" height="300"></img>
