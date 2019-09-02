@@ -29,7 +29,7 @@
 ----
 ## Python을 활용한 데이터 분석
 <img src = "http://image.yes24.com/momo/TopCate1745/MidCate004/174435292.jpg" width="200" height="300"></img> 
-- 파이썬으로 데이터 주무르기 독특한 예제를 통해 배우는 데이터 분석 입문 (ing)
+- 파이썬으로 데이터 주무르기 독특한 예제를 통해 배우는 데이터 분석 입문 (Completed, 2019.09.02)
   
 ----
 ## 머신러닝/딥러닝
